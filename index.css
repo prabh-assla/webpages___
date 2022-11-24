@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-image: url("./Jaya_Pics/1665151458848-01.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: -190% -100%;
+    overflow: hidden;
+    height: 200vh;
+    width: 200vw;
+}
+
+._mainContainer{
+    position: relative;
+    left: 10vw;
+    top: 8vh;
+    height: 80vh;
+    width: 80vw;
+    border: 0.3vmax solid rgba(96, 68, 233, 0.716);
+    border-radius: 2vmax;
+}
+
+.mainContainer{
+    position: relative;
+    margin: -0.3vmax -0.3vmax;
+    height: 80vh;
+    width: 80vw;
+    left: 2vh;
+    top: 2vh;
+    border-radius: 2vmax;
+    border: 0.3vmax solid rgba(210, 97, 232, 0.716);
+}
